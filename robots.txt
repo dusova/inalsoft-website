@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /gorev/
+Disallow: /private/
+Disallow: /*?query=
+Disallow: /*&query=
+
+Sitemap: https://inalsoft.com/sitemap.xml
