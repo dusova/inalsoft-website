@@ -27,7 +27,9 @@ Tamamen duyarlı (responsive), modern, gelişmiş SEO optimizasyonları ve eriş
 
 inalsoft web sitesi, dijital pazarlama ajansı için modern, duyarlı ve SEO odaklı bir web sitesidir. Site, ajansın hizmetlerini, portfolyosunu, ekibini ve müşteri yorumlarını sergiler. Performans, erişilebilirlik ve SEO en iyi uygulamaları göz önünde bulundurularak tasarlanmıştır.
 
-![inalsoft Web Sitesi Ekran Görüntüsü](https://placehold.co/800x400/000000/FFF?text=inalsoft+Web+Sitesi)
+![inalsoft Web Sitesi Ekran Görüntüsü](whiteThemePreview.png)
+
+![inalsoft Web Sitesi Ekran Görüntüsü](darkThemePreview.png)
 
 ## ✨ Özellikler
 
